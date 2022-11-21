@@ -18,6 +18,9 @@ A misplaced piece is a piece that is present in the secret code butthat is not i
 USAGE:
 
 ·To play with a random code generated and 10 attempts: run ./my_mastermind 
+
 ·To generate your own 4 digits code: run ./my_mastermind -c 0123 
+
 ·To choose the number of attempts: run ./my_mastermind -t 4 
+
 ·Flag combination is accepted: run ./my_mastermind -c 0123 -t 4
