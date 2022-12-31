@@ -13,7 +13,7 @@ Pieces will be '0' '1' '2' '3' '4' '5' '6' '7'.
 
 If the player finds the code, he wins, and the game stops.
 
-A misplaced piece is a piece that is present in the secret code butthat is not in a good position.
+A misplaced piece is a piece that is present in the secret code but that is not in a good position.
 
 USAGE:
 
