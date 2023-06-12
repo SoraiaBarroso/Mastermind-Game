@@ -11,7 +11,6 @@
 
 int check_input(char* input);
 int len_input(char* input);
-void read_input(char* input);
 int check_secretcode(char* secret_code, char* input);
 int main(int ac, char** av);
 
